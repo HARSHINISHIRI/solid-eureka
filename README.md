@@ -24,8 +24,8 @@ This project implements a classic **Snake Game** where the snake learns to play 
 
 Ensure you have Python installed along with the following libraries:
 
-```bash
 pip install pygame torch numpy
+
 
 ## 🧠 Deep Q-Network (DQN) Overview
 
